@@ -9,4 +9,4 @@ Nevertheless, several interesting modules are implemented inside, using C++, suc
 
 ![Alt Text](SwordCombat.gif)
 
-Despite the existence of the blueprints system inside Unreal Engine - all the project code is written in pure C++ (using Rider), as it allows to customize components much more flexible (and it's a lot more fun)
+Despite the existence of the blueprints system inside Unreal Engine - all the project code is written in pure C++, as it allows to customize components much more flexible (and it's a lot more fun)
